@@ -1,2 +1,2 @@
 # Terraform
-#Test builds before production/infra deployment
+#Test builds before production/infra deployments
